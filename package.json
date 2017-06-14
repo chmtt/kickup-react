@@ -41,7 +41,7 @@
     "mocha": "^3.4.2",
     "mocha-webpack": "next",
     "null-loader": "^0.1.1",
-    "postcss-loader": "^2.0.5",
+    "postcss-loader": "^2.0.6",
     "react-hot-loader": "^1.3.0",
     "react-test-renderer": "^15.5.4",
     "rucksack-css": "^0.9.1",
